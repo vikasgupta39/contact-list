@@ -4,8 +4,8 @@
   "description": "basic contact list to learn nodejs as a framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "Vikas",
   "license": "ISC",
